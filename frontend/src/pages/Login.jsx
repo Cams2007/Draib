@@ -61,7 +61,7 @@ function Login({ onLogin, onRegister }) {
         </form>
 
         <p className="register-prompt">
-          ¿Aún no tienes cuenta?{' '}
+          ¿Aún no tienes cuentas?{' '}
           <button className="text-link" onClick={onRegister} type="button">Autoregistrarme</button>
         </p>
       </section>
